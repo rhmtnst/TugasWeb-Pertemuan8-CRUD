@@ -18,7 +18,7 @@ Aplikasi merupakan sistem CRUD sederhana untuk mengelola data inventaris produk 
 - Prepared Statement untuk query yang menerima input pengguna
 - PDO Singleton
 - htmlspecialchars() untuk output HTML
-- Flash message setelah proses CRUD
+- Pesan keberhasilan setelah proses CRUD
 - Tampilan antarmuka sederhana dan responsif
 
 ## Teknologi
@@ -137,8 +137,3 @@ Validasi input
 htmlspecialchars() untuk output
 POST untuk proses penghapusan data
 
-### Setelah itu
-
-**Simpan `README.md` saja dulu. Jangan ke GitHub dulu.**
-
-Kalau sudah dibuat dan disimpan, bilang **"README sudah"**.
